@@ -1,4 +1,4 @@
-# Clima-Api
+# Clima-App
 App if you want to know the weather of a specific area
 
 # Usage
